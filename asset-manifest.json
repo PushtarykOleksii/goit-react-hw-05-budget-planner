@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-budget-planner/build/static/css/main.67e7994e.chunk.css",
-    "main.js": "/goit-react-hw-05-budget-planner/build/static/js/main.f9a03f0b.chunk.js",
-    "main.js.map": "/goit-react-hw-05-budget-planner/build/static/js/main.f9a03f0b.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-05-budget-planner/build/static/js/runtime~main.d988b436.js",
-    "runtime~main.js.map": "/goit-react-hw-05-budget-planner/build/static/js/runtime~main.d988b436.js.map",
-    "static/js/2.bad1fee3.chunk.js": "/goit-react-hw-05-budget-planner/build/static/js/2.bad1fee3.chunk.js",
-    "static/js/2.bad1fee3.chunk.js.map": "/goit-react-hw-05-budget-planner/build/static/js/2.bad1fee3.chunk.js.map",
-    "index.html": "/goit-react-hw-05-budget-planner/build/index.html",
-    "precache-manifest.bdb7ef3984e2c5a437adaa4c26751fde.js": "/goit-react-hw-05-budget-planner/build/precache-manifest.bdb7ef3984e2c5a437adaa4c26751fde.js",
-    "service-worker.js": "/goit-react-hw-05-budget-planner/build/service-worker.js",
-    "static/css/main.67e7994e.chunk.css.map": "/goit-react-hw-05-budget-planner/build/static/css/main.67e7994e.chunk.css.map"
+    "main.css": "/goit-react-hw-05-budget-planner/static/css/main.67e7994e.chunk.css",
+    "main.js": "/goit-react-hw-05-budget-planner/static/js/main.f9a03f0b.chunk.js",
+    "main.js.map": "/goit-react-hw-05-budget-planner/static/js/main.f9a03f0b.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-05-budget-planner/static/js/runtime~main.922b5614.js",
+    "runtime~main.js.map": "/goit-react-hw-05-budget-planner/static/js/runtime~main.922b5614.js.map",
+    "static/js/2.2d6d1b25.chunk.js": "/goit-react-hw-05-budget-planner/static/js/2.2d6d1b25.chunk.js",
+    "static/js/2.2d6d1b25.chunk.js.map": "/goit-react-hw-05-budget-planner/static/js/2.2d6d1b25.chunk.js.map",
+    "index.html": "/goit-react-hw-05-budget-planner/index.html",
+    "precache-manifest.5c96c1bf6aebd498b0a7098d5ce230b7.js": "/goit-react-hw-05-budget-planner/precache-manifest.5c96c1bf6aebd498b0a7098d5ce230b7.js",
+    "service-worker.js": "/goit-react-hw-05-budget-planner/service-worker.js",
+    "static/css/main.67e7994e.chunk.css.map": "/goit-react-hw-05-budget-planner/static/css/main.67e7994e.chunk.css.map"
   }
 }
